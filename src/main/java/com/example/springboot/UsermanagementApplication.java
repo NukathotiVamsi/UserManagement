@@ -11,5 +11,6 @@ public class UsermanagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UsermanagementApplication.class, args);
 		System.out.println("changes in main application");
+		System.out.println("User Management");
 	}
 }
