@@ -10,5 +10,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 public class UsermanagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UsermanagementApplication.class, args);
+		System.out.println("changes in main application");
 	}
 }
